@@ -38,7 +38,7 @@ How do we get the position for each character? We use Python's `ord()` method wh
 ![example on how the character array is filled with the word 'cat']({{ site.baseurl }}/images/alg4/catex.png)
 
 We can then use this array as a key for a hash map, and have the value be the word that matches this array. For example, for `'cat'` and `'act'`: 
-![hash map example for cat and act]({{ site.baseurl }}/images/alg4/catarray.png)
+![hash map example for cat and act]({{ site.baseurl }}/images/alg4/hmap.png)
 This works because we know that `'cat'` and `'act'` will produce the exact same character array, so when `'act'` comes along, we will know where to store it. For a new word, we will simply create that array.
 
 A few more pythonic things: 
