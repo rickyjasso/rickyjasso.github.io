@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 4 - Top K Frequent Elements
+title: Day 5 - Top K Frequent Elements
 ---
 [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) was straightforward but a bit tricky.
 
